@@ -8,3 +8,6 @@ Run `npm test` on CLI
 ## Using ServeRest
 
 [![Badge ServeRest](https://img.shields.io/badge/API-ServeRest-green?style=for-the-badge)](https://github.com/PauloGoncalvesBH/ServeRest/)
+
+## References
+- [Testing http apis supertest](https://rollout.io/blog/testing-http-apis-supertest/)
